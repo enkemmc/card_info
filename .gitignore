@@ -1,4 +1,7 @@
 node_modules
 build
 src/data/data.json
+<<<<<<< HEAD
 *~
+=======
+>>>>>>> f520acd303d537fcb3c7c672fde119835b6352e0
